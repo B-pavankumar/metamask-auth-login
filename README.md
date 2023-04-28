@@ -21,4 +21,5 @@ https://streerakshak-web3-login-auth.netlify.app/
 Tech staxk used to build the Login/signup Page 
 > HTML
 > CSS
-> JavaScript
+> Javascript
+> ethereum 
